@@ -11,7 +11,9 @@ namespace gitTest
 
         public int  GetID(){
             ID = 9;
-            ID = 8;
+
+            ID++;
+
             return ID;
         }
     }
