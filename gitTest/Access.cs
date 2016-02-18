@@ -9,11 +9,13 @@ namespace gitTest
     {
         public int ID;
 
-        public int  GetID(){
+        public int GetID()
+        {
             ID = 9;
 
             ID++;
-            ID = ID + 1;
+            ID = ID + 2;
+
             return ID;
         }
     }
