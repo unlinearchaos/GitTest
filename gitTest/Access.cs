@@ -10,7 +10,7 @@ namespace gitTest
         public int ID;
 
         public int  GetID(){
-            ID = 6;
+            ID = 8;
             return ID;
         }
     }
