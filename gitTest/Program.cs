@@ -13,13 +13,6 @@ namespace gitTest
             Console.WriteLine("x");
             Console.WriteLine("x");
 
-
-            Console.WriteLine("x");
-            Console.WriteLine("x");
-
-
-
-            Console.WriteLine("x");
         }
     }
 }
