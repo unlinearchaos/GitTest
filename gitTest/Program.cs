@@ -13,6 +13,8 @@ namespace gitTest
             Console.WriteLine("x");
             Console.WriteLine("x");
 
+            int i = 0;
+
         }
     }
 }
