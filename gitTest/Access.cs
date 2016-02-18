@@ -8,5 +8,10 @@ namespace gitTest
     public class Access
     {
         public int ID;
+
+        public int  GetID(){
+            ID = 6;
+            return ID;
+        }
     }
 }
